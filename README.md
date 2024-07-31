@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Patrick (Phat)
 - 👀 I’m interested in web development, information systems, competitive programming and finance.
 - 🌱 I’m currently learning lots of things.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: patrick.nguyen01@outlook.com
 
 <!---
