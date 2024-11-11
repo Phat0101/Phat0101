@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Patrick and I'm a software engineer, from in Sydney.</h2>
+<h2 align="left">Hi 👋! My name is Patrick and I'm a software engineer, from Sydney.</h2>
 
 ###
 
@@ -102,6 +102,11 @@
 ###
 
 <div align="left">
+<h3 align="left">Check out my site:</h3>
+  <a href="https://patrickdevs.vercel.app/" target="_blank">
+    <img src="https://patrickdevs.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fprofile.4c63147d.jpg&w=828&q=75" width="40" height="40" style="border-radius:50%"
+     alt="website logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/patrick-nguyen-44766a188/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
