@@ -84,8 +84,6 @@
   <img src="https://www.boisestate.edu/oit/wp-content/uploads/sites/42/2023/08/Google_Bard_logo-300x300.jpg" height="30" alt="Gemini logo"/>
   <img width="12" />
   <img src="https://pbs.twimg.com/profile_images/1758141568970878976/fM5FlvD3_400x400.jpg" height="30" alt="RAG logo"/>
-  <img width="12" />
-  <img src="https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png" height="30" alt="RAG logo"/>
 </div>
 
 ###
