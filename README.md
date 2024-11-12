@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Patrick and I'm a software engineer, from Sydney.</h2>
+<h2 align="left">Hi 👋! My name is Patrick 👨🏻‍💻 and I'm a software engineer, from Sydney.</h2>
 
 ###
 
